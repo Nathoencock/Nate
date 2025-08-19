@@ -1,7 +1,7 @@
 <h1 align="center"> Hey Developers! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?width=500&font=IBM+Plex+Sans&color=1DC3F7&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Contact+Email:+contact@noahltr.de" /></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?width=500&font=IBM+Plex+Sans&color=1DC3F7&vCenter=true&lines=Welcome+to+my+GitHub+Profile!;Contact+Email:+spam@pussy.gmbh" /></a>
 </p>
 
 <br>
